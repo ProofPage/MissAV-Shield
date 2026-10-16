@@ -4,6 +4,10 @@
 // @version      1.0.0
 // @description  Removes ads, action bars, and sponsored widgets while enabling continuous background playback and fully expanded titles and descriptions on MissAV.
 // @author       Page
+// @homepageURL  https://github.com/ProofPage/MissAV-Shield
+// @supportURL   https://github.com/ProofPage/MissAV-Shield/issues
+// @updateURL    https://raw.githubusercontent.com/ProofPage/MissAV-Shield/main/MissAV_Shield.user.js
+// @downloadURL  https://raw.githubusercontent.com/ProofPage/MissAV-Shield/main/MissAV_Shield.user.js
 // @match        https://missav123.com/*
 // @match        https://missav.ws/*
 // @match        https://missav.live/*
